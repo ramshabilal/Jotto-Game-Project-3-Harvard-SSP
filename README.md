@@ -1,1 +1,1 @@
-# Jotto-Game-Project-_-Harvard-SSP
+# Jotto-Game-Project-Harvard-SSP
